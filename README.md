@@ -16,6 +16,9 @@ you need to install tkinter for the purpose of the app
 
 after capturing a suceful sniffing connections trought APOP you need to retreve 2 thing 
 
+
+WARNING: modifi dictionary path in line 72 by your own 
+
 </br>
 </br>
 
@@ -41,6 +44,11 @@ after capturing a suceful sniffing connections trought APOP you need to retreve 
 
 
 after finding this two parameter put them in the named case , select your brute-force dictionary and whait 
+
+
+
+
+
 
 write by biero el corridor for APOP challenge of root me 
 
