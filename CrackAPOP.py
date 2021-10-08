@@ -5,7 +5,7 @@
 #4ddd4137b84ff2db7291b568289717f0
 #test avec le fichier text 
 
-#le probléme vien de ce putain de retour chariot de merde 
+#test de push 
 
 import hashlib
 m = hashlib.md5()
