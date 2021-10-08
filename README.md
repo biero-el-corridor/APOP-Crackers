@@ -1,25 +1,9 @@
-<html>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
+
+<link rel="stylesheet" href="file.css">
 
 <h2>HTML Table</h2>
 
-<table>
+<table class="table">
   <tr>
     <th>Creator</th>
 
