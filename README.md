@@ -34,14 +34,14 @@
 </br>
 </br>
 
-An APOP passwod bruteforce finder using dictionary like rock-you
+An APOP password bruteforce finder using a dictionary like rock-you
 
 you need to install tkinter for the purpose of the app 
 
-after capturing a suceful sniffing connections trought APOP you need to retreve 2 thing 
+after capturing a successful connection throught APOP you need to retrieve 2 things 
 
 
-WARNING: modifi dictionary path in line 72 by your own 
+WARNING: modify dictionary path in line 72 by your own 
 
 </br>
 </br>
@@ -58,7 +58,7 @@ WARNING: modifi dictionary path in line 72 by your own
 
 - the MD5 hash value of the stamp + password 
 
-  - the hash is in the Post Office Protocol in the APOP bsmith sections
+  - the hash is in the Post Office Protocol in the APOP bsmith section
   
   - ex: 4ddd4137b84ff2db7291b568289717f0
 
@@ -67,7 +67,7 @@ WARNING: modifi dictionary path in line 72 by your own
 
 
 
-after finding this two parameter put them in the named case , select your brute-force dictionary and whait 
+After finding these two parameters put them in the named case, select your brute-force dictionary and wait 
 
 
 
